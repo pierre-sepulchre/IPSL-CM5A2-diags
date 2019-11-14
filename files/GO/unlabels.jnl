@@ -1,0 +1,28 @@
+\cancel mode verify
+
+!**************************************************************
+! Description: Remove labels from the specified interval
+!
+! Usage: go unlabels label_num_start label_num_end
+!
+! Example:
+!  yes? plot/set_up i[i=1:100]
+!  yes? go unlabels 1 8
+!  yes? ppl plot
+!
+! Notes:
+!
+! Calls: go unlabel 
+!
+! Author: Patrick Brockmann
+! Contact: Patrick.Brockmann@ipsl.jussieu.fr
+! History:
+! Modification:
+!
+!**************************************************************
+
+repeat/i=$1%1%:$2%3%:1 (go unlabel `i`)
+
+!**************************************************************
+set mode/last verify
+

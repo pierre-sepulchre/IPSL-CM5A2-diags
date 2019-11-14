@@ -1,0 +1,27 @@
+\cancel mode verify
+
+!**************************************************************
+! Description: Make plot so small that it appears invisible
+!
+! Usage: go invisible
+!
+! Notes:
+!  * Needed by colobar_put
+!
+! Calls:
+!
+! Author: Patrick Brockmann
+! Contact: Patrick.Brockmann@ipsl.jussieu.fr
+! History:
+! Modification:
+!
+!**************************************************************
+
+! plot will be invisible
+ppl axlen .01,.01
+ppl origin 0,0
+ppl axset 0,0,0,0
+
+!**************************************************************
+set mode/last verify
+
