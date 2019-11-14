@@ -17,7 +17,7 @@ echo '' >> $pyferretActivate
 echo '=========================================' >> $pyferretActivate
 echo 'export FER_DATA=". $FER_DATA $HOME/fast"' >> $pyferretActivate
 echo 'export FER_GO=". $FER_GO $HOME/fast"' >> $pyferretActivate
-echo 'export FER_PALETTE=". /$FER_PALETTE $HOME/fast"' >> $pyferretActivate
+echo 'export FER_PALETTE=". $FER_PALETTE $HOME/fast"' >> $pyferretActivate
 echo 'export PATH="$FER_DIR/bin:$HOME/fast:$PATH"' >> $pyferretActivate
 
 #==================================================
@@ -25,4 +25,4 @@ echo 'export PATH="$FER_DIR/bin:$HOME/fast:$PATH"' >> $pyferretActivate
 echo '' >> $pyferretActivate
 echo '=========================================' >> $pyferretActivate
 echo 'export FER_GO=". $FER_GO $HOME/files/GO"' >> $pyferretActivate
-echo 'export FER_PALETTE=". /$FER_PALETTE $HOME/files/Palettes"' >> $pyferretActivate
+echo 'export FER_PALETTE=". $FER_PALETTE $HOME/files/Palettes"' >> $pyferretActivate
