@@ -1,4 +1,4 @@
-### A jupyter notebook of the diags used in Sepulchre et al. manuscript "IPSL-CM5A2. An Earth System Model designed for multi-millennial climate simulations" submitted to Geoscientific Model Development (https://www.geosci-model-dev.net/).
+### A jupyter notebook of the diags used in Sepulchre et al. manuscript "IPSL-CM5A2. An Earth System Model designed for multi-millennial climate simulations" submitted to Geoscientific Model Development (https://www.geosci-model-dev-discuss.net/gmd-2019-332/).
 
 This notebook opens netcdf files stored on the French supercomputer IRENE through vesg.ipsl.upmc.fr and thredds. It describes the building of most of the figures presented in the manuscript. 
 The authors wish to acknowledge use of the ferret (pyferret) program for analysis and graphics in this paper. 
