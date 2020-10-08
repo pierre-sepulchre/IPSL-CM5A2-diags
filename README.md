@@ -7,7 +7,7 @@ ferret and pyferret are products of NOAA's Pacific Marine Environmental Laborato
 
 This noteook can be executed interactively by clicking on the binder link below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.3549652/?filepath=Sepulchre_et_al_2020_GMD-notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.4073352/?filepath=Sepulchre_et_al_2020_GMD-notebook.ipynb)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549652.svg)](https://doi.org/10.5281/zenodo.3549652)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4073352.svg)](https://doi.org/10.5281/zenodo.4073352)
